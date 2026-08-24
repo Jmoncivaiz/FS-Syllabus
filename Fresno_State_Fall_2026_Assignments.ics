@@ -1,0 +1,376 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//Fresno State Fall 2026 Assignments//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fresno State Fall 2026 Assignments
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:fresnostate-fall2026-1@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Unit 1 Review DUE
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-2@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Unit 2 Review DUE
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-3@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Unit 4 Review Worksheet DUE
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-4@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Exam #1 Day 1
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-5@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Exam #1 Day 2
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-6@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Exam #1 Day 3
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-7@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Project 1 DUE
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-8@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Writing Assignment #1 Rough Draft DUE
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-9@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Unit 6 Review Worksheet DUE
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-10@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Exam #2 Day 1
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-11@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Exam #2 Day 2
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-12@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Exam #2 Day 3
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-13@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Unit 9 Review Worksheet DUE
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-14@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Writing Assignment #1 Final Draft DUE
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-15@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Project 2 DUE / Class Performance Day 1
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-16@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Project 2 Class Performance Day 2
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-17@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Exam #3 Day 1
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-18@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Exam #3 Day 2
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-19@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Exam #3 Day 3 / Last Day of Instruction
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-20@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Writing Assignment #2 Concert Response DUE
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-21@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 9A — Final Exam
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+DESCRIPTION:From the Fall 2026 Music 9A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-22@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 1A — Dictation Exam #1
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DESCRIPTION:From the Fall 2026 MUSIC 1A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-23@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 1A — Sight Singing Exam #1
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DESCRIPTION:From the Fall 2026 MUSIC 1A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-24@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 1A — Dictation Exam #2
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DESCRIPTION:From the Fall 2026 MUSIC 1A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-25@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 1A — Sight Singing Exam #2
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DESCRIPTION:From the Fall 2026 MUSIC 1A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-26@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 1A — Dictation Exam #3
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DESCRIPTION:From the Fall 2026 MUSIC 1A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-27@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 1A — Sight Singing Exam #3
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+DESCRIPTION:From the Fall 2026 MUSIC 1A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-28@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 1A — Makeup Exams / Extra Credit Opportunity
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+DESCRIPTION:From the Fall 2026 MUSIC 1A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-29@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Music 1A — Final Exam / 2nd Attempt for Exam #3
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+DESCRIPTION:From the Fall 2026 MUSIC 1A-10 syllabus.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-30@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 1 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-31@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 2 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-32@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 3 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-33@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 4 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-34@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 5 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-35@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 6 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-36@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 7 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-37@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Midterm Exam DUE
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-38@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 8 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-39@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 9 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-40@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 10 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-41@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 11 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-42@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 12 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-43@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Term Paper DUE
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-44@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 13 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-45@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Chapter 14 Homework (Key Terms + Journey Questions)
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:fresnostate-fall2026-46@chatgpt
+DTSTAMP:20260824T061500Z
+SUMMARY:Psych 10 — Final Exam DUE
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DESCRIPTION:From the Fall 2026 PSYCH 10 syllabus. Chapter homework is described as Key Terms + Journey Questions and is due Fridays at 11:59 PM\; the syllabus's tentative schedule supplies these dates.
+END:VEVENT
+END:VCALENDAR
